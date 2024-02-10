@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # Get input from the user
 NS = 2000  # Number of shares
 BP = 40.00  # Buying price per share
@@ -35,11 +29,3 @@ elif total_amount < 0:
     print("Joe incurred a loss.")
 else:
     print("Joe broke even.")
-
-
-
-# In[ ]:
-
-
-
-
